@@ -3,7 +3,7 @@ js = open('js/questions.js', 'w')
 first = True
 for line in txt:
 	if first:
-		js.write('var questions = [')
+		js.write('var q = [')
 		js.write("\n\t'" + line.rstrip() + "'")
 		first = False
 	else:

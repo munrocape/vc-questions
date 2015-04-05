@@ -1,4 +1,4 @@
-var questions = [
+var q = [
 	'Have you raised funding?',
 	'What makes new users try you?',
 	'What competition do you fear most?',
