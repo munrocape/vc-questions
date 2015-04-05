@@ -16,16 +16,22 @@
 	</head>
 	<body>
 		<div class="container">
-			<h3 id="question"></h3>
-			<div id="timer" class="timer"><span id="timeRemaining"></span></div>
-			<div class="mobile-instructions row">
-				<button>NEXT QUESTION</button>
-				<button>PAUSE TIMER</button>
+			<h3 id="question">Hi, welcome to your mock VC interviews.</h3>
+			<div id="timer" class="timer"><p id="timeRemaining">&nbsp;</p></div>
+			<div class="instructions row">
+				<button id="questionControl" class="button button-green six columns" onclick="nextQuestion()">
+					<span id="questionText">FIRST QUESTION</span>
+					<span id="questionSymbol">↵</span>
+				</button>
+				<button id="timerControl" class="button button-grey six columns" onclick="flipflopTimer()">
+					<span id="timerText">PAUSE TIMER</span>
+					<span id="timerSymbol">_</span>
+				</button>
 			</div>
-			<div class="desktop-instructions row">
-				<button>RETURN↵</button> to advance. 
-				<button>SPACE</button> to pause.
-			</div>
+		</div>
+		<div class="footer">
+			<span>Made by @munrocape</span>
+			<br><span>Contribute to the list here.</span>
 		</div>
 	</body>
 </html>
