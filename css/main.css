@@ -4,6 +4,9 @@
 }
 
 .footer {
+	position: fixed;
+	bottom: 30px;
+	width: 100%;
 	text-align:center;
 }
 
@@ -19,7 +22,7 @@
 	height:75px;
 }
 .button-green{
-	margin-bottom:75px;
+	margin-bottom:40px;
 }
 #questionSymbol, #timerSymbol{
 	display:none;
