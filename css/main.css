@@ -2,9 +2,7 @@
 	margin-top:8%;
 	text-align:center;}
 .footer {
-	position: fixed;
-	bottom: 30px;
-	width: 100%;
+	margin-top:75px;
 	text-align:center;}
 .hide {
 	display:none;}
@@ -15,6 +13,9 @@
 #questionSymbol, #timerSymbol{
 	display:none;}
 @media (min-width: 550px) {
+	.footer{
+		margin-top:175px;
+	}
 	#questionSymbol, #timerSymbol{
 		display:inline;}
 	.button{
@@ -22,6 +23,9 @@
 		padding: 0 30px;}
 }
 @media (min-width: 750px) {
+	.footer{
+		margin-top:250px;
+	}
 	.mobile-instructions{
 		display:none;}
 	.desktop-instructions{
