@@ -1,32 +1,61 @@
 var q = [
-	'Have you raised funding?',
-	'What makes new users try you?',
-	'What competition do you fear most?',
+	
+	// Self/Team
 	'What’s the worst thing that has happened?',
 	'Will you reincorporate as a US company?',
 	'What’s an impressive thing you have done?',
-	'Where is the rocket science here?',
 	'Why did you pick this idea to work on?',
-	'Why do the reluctant users hold back?',
 	'Who would you hire or how would you add to your team?',
-	'What problems/hurdles are you anticipating?',
-	'Who is “the boss”?',
-	'What is the next step with the product evolution?',
+	'How did your team meet?',
+	'Who in your team does what?',
 	'What obstacles will you face and how will you overcome them?',
-	'Who needs what you’re making?',
+	'What is the next step with the product evolution?',
+	'Who is “the boss”?',
+	'Will your team stick at this?',
+	'How do we know your team will stick together?',
+	
+	// Product
+	'Where is the rocket science here?',
+	'How is your product different?',
+	'Are you open to changing your idea?',
 	'How does your product work in more detail?',
 	'What are you going to do next?',
+	'Six months from now, what’s going to be your biggest problem?',
+	
+	// Customer
+	'What makes new users try you?',
+	'Why do the reluctant users hold back?',
+	'How are you meeting customers?',
+	'What are the top things users want?',
+	'Who needs what you’re making?',
+	
+	// Pricing
+	'Have you raised funding?',
+	'How many users are paying?',
+	'How much does customer acquisition cost?',
+	'How much money could you make per year?',
+	'How long can you go before funding?',
+	'How will you make money?',
+	'What is your growth like?'
+	
+	// Competition
+	'What competition do you fear most?',
+	'What problems/hurdles are you anticipating?',
 	'What do you understand that others don’t?',
+	'Who are your competitors?',
+	
+	
+	
 	'Where do new users come from?',
 	'How big an opportunity is there?',
-	'Six months from now, what’s going to be your biggest problem?',
+	
 	'What’s the funniest thing that has happened to you?',
 	'Tell us something surprising you have done?',
-	'Who are your competitors?',
+	
 	'What’s new about what you make?',
 	'How many users do you have?',
 	'Why isn’t someone already doing this?',
-	'What are the top things users want?',
+	
 	'What is your burn rate?',
 	'How do you know customers need what you’re making?',
 	'What domain expertise do you have?',
@@ -53,17 +82,4 @@ var q = [
 	'How do you know people want this?',
 	'Would you relocate to Silicon Valley?',
 	'What do you know about this space/product others don’t know?',
-	'How much money could you make per year?',
-	'How long can you go before funding?',
-	'How will you make money?',
-	'Will your team stick at this?',
-	'How much does customer acquisition cost?',
-	'How did your team meet?',
-	'Who in your team does what?',
-	'How are you meeting customers?',
-	'How many users are paying?',
-	'How is your product different?',
-	'Are you open to changing your idea?',
-	'How do we know your team will stick together?',
-	'What is your growth like?'
 	]
